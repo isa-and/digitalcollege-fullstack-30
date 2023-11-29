@@ -1,1 +1,21 @@
-# Aula 02
+### Tópicos da aula 02
+- Entendendo como funciona a comunicação entre cliente e servidor
+- Entendimento dos seguintes protocolos e caminho que é feito na rede para a transferência de pacotes
+- TCP/IP
+- HTTP/HTTPS
+- Entendendo o que é uma REQUEST e um RESPONSE
+- Request Line
+- Headers
+- Body
+- Status Code
+- Partes de uma URL
+- Scheme
+- Domínio
+- Porta
+- Path
+- Fragment/Hash
+- Query
+- DNS
+- TLD
+- gTLD
+- ccTLD

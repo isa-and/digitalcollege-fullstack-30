@@ -1,0 +1,12 @@
+### Tópicos da aula 04
+- Estrutura básica de um documento HTML
+- doctype
+- html
+- head
+- body
+- Conhecendo tags de texto, e de listas ao criar um curriculo simples
+- Conhecendo tabelas e suas tags
+- colgroup
+- thead e tbody
+- th, tr e td
+- colspan e rowspan
